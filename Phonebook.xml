@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<IPPhoneBook>
+  <Title>Phonebook</Title>
+  <Menu Name="Справочник ">
+   
+    <Unit Name="Иванов Андрей Иванович" Phone1="1000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Иванов Сергей Иванович" Phone1="1001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Иванов Андрей Сергеевич" Phone1="1002" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</IPPhoneBook>
